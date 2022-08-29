@@ -36,7 +36,7 @@ transform: rotate(0);
 }
 .about__card:hover{
     background: transparent;
-    border-color: rgb(169, 223, 169);
+    border-color:var(--color-primary); 
     cursor:default;
 }
 .about__icon{
