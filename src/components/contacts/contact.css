@@ -1,0 +1,82 @@
+.contact__container{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+    /* background-color: green; */
+
+}
+.contact__options{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.contact__option{
+  text-align: center;
+    padding:1.2rem;
+    border: 1px solid transparent;
+    background-color: var(--color-bg-variant);
+    border-radius: 1.2rem;
+    transition: var(--transition);
+
+}
+.contact__option:hover{
+    border-color: var(--color-primary);
+    background-color: transparent;
+}
+.contact__option-icon{
+    font-size: 1.4rem;
+    color: var(--color-primary);
+    margin-bottom: 0.5rem;
+}
+
+.contact__form{
+    
+    padding: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input,textarea{
+    width: 100%;
+    padding: 1.5rem;
+    border: 2px solid var(--color-bg-variant);
+    background-color: transparent;
+    resize: none;
+    color: var(--color-white);
+    border-radius: 1rem;
+}
+.contact__form button{
+    align-self: flex-end;
+    
+}
+
+/*
+===============================================
+            MEDIA QUERIES
+=================================================
+*/
+
+/* ===========  MEDIUM SCREENS ================ */
+
+@media screen and (max-width:1024px){
+    .container.contact__container{
+  
+    grid-template-columns: 1fr;
+    gap: 2rem;
+   
+}
+}
+
+/* ===========  MEDIUM SCREENS ================ */
+
+@media screen and (max-width:600px){
+       .container.contact__container{
+  width: var(--container-width-sm);
+    grid-template-columns: 1fr;
+    gap: 1rem;
+   
+}
+}
+

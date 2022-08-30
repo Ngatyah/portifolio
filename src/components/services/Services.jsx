@@ -16,27 +16,31 @@ const Services = () => {
             <ul>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Beautiful Design And Solid User Experience</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Beautiful Design And Solid User Experience</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Ads & monetization</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Mimic the performance of a native app.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <p>Create a complex, custom UI with ease.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Add Firebase and Firestore services to your App. </p>
+              </li>
+              <li>
+                <BiCheck className="service__body-icon" />
+                <p> e-commerce Flutter application.</p>
               </li>
             </ul>
           </div>
@@ -49,27 +53,32 @@ const Services = () => {
             <ul>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>
+                  Frontend web development using modern techniques and
+                  frameworks.
+                </p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>JavaScript development using modern standards,</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>
+                  Using and working in team environments that use agile
+                  methodologies (e.g., Scrum, Lean).
+                </p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Use React and Vue Js Frameworks</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-              </li>
-              <li>
-                <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>
+                  Creating mobile-responsive apps that will work well on mobile
+                  devices
+                </p>
               </li>
             </ul>
           </div>
@@ -82,27 +91,23 @@ const Services = () => {
             <ul>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p> SQL, MariaDB and many relational databases.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Heroku services.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>AWS services.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Payment gateway integrations.</p>
               </li>
               <li>
                 <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-              </li>
-              <li>
-                <BiCheck className="service__body-icon" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>API integration </p>
               </li>
             </ul>
           </div>
