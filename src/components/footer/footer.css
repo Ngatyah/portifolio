@@ -41,3 +41,25 @@ footer a{
     border-color: var(--color-bg);
     color: var(--color-bg);
 }
+/*
+===============================================
+            MEDIA QUERIES
+=================================================
+*/
+
+/* ===========  MEDIUM SCREENS ================ */
+
+@media screen and (max-width:1024px){
+   
+}
+
+/* ===========  MEDIUM SCREENS ================ */
+
+@media screen and (max-width:600px){
+   .permalinks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5rem;
+   }
+}

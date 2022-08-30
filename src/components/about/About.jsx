@@ -43,10 +43,12 @@ const About = () => {
             </article>
           </div>
           <p>
-            The standard chunk of Lorem Ipsum used since the 1500s is reproduced
-            below for those interested. Sections 1.10.32 and 1.10.33 from "de
-            Finibus Bonorum. Many desktop publishing packages and web page
-            editors now use Lorem Ipsum as their default model text,
+            I have more than 3 years experience in developing web applications
+            and websites. I can build full stack as well and frontend
+            development for you. For full stack development I use MERN stack.
+            I'll use VS code for developing your application. I develop apps
+            with latest technology including Html, CSS, Bootstrap, Reactjs,
+            Nodejs, JavaScript
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
