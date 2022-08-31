@@ -22,8 +22,13 @@ const Portfolio = () => {
             <img src={mobile} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
-            <a href="#r" className="btn">
+            <h3>Expense Tracker(Dark Mode)</h3>
+            <a
+              href="https://github.com/sisitech/expense_tracker"
+              target="_blank"
+              className="btn"
+              rel="noreferrer"
+            >
               Github
             </a>
             <a href="#t" className="btn btn-primary">
@@ -39,8 +44,13 @@ const Portfolio = () => {
             <img src={dash1} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
-            <a href="#r" className="btn">
+            <h3>Expense Tracker (Light Mode)</h3>
+            <a
+              href="https://github.com/sisitech/expense_tracker"
+              target="_blank"
+              className="btn"
+              rel="noreferrer"
+            >
               Github
             </a>
             <a href="#t" className="btn btn-primary">
@@ -56,7 +66,7 @@ const Portfolio = () => {
             <img src={dash2} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
+            <h3>Financial Dashboard</h3>
             <a href="#r" className="btn">
               Github
             </a>
@@ -73,7 +83,7 @@ const Portfolio = () => {
             <img src={dash3} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
+            <h3> Data Analytics Dashboard</h3>
             <a href="#r" className="btn">
               Github
             </a>
@@ -90,8 +100,13 @@ const Portfolio = () => {
             <img src={dash4} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
-            <a href="#r" className="btn">
+            <h3>Energy Watch</h3>
+            <a
+              href="https://github.com/Ngatyah/energy-watch"
+              target="_blank"
+              className="btn"
+              rel="noreferrer"
+            >
               Github
             </a>
             <a href="#t" className="btn btn-primary">
@@ -107,7 +122,7 @@ const Portfolio = () => {
             <img src={dash5} alt="mobile" />
           </div>
           <div className="portfolio__body">
-            <h3>Portfolio title</h3>
+            <h3>Appraisal Dashboard</h3>
             <a href="#r" className="btn">
               Github
             </a>
