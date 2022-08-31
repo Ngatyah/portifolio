@@ -32,14 +32,14 @@ const About = () => {
                 <FiUsers />
               </div>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
             <article className="about__card">
               <div className="about__icon">
                 <MdOutlineFolderSpecial />
               </div>
               <h5>Projects</h5>
-              <small>80+ completed</small>
+              <small>+10 completed</small>
             </article>
           </div>
           <p>
